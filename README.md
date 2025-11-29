@@ -79,7 +79,7 @@ A full-stack web application for managing employee data. This project demonstrat
 | **DELETE** | `/api/employees/{id}` | Delete an employee |
 
 ## 👤 Author
-**EasyCoder**
+**Jagdish Kamlekar**
 * Full Stack Developer
 
 ## 📄 License
